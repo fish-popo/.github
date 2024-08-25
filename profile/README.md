@@ -6,6 +6,6 @@
   <img width="300px" height="250px" src="https://cdn.yupaowang.com/yupao_pc/images/pl/fish-bubble-design-logo.png">
 </p>
 
-<h3 align="center">Fish Popo (鱼泡泡)</h1>
+<h3 align="center">Popo Fish (泡泡鱼)</h1>
 
 <p align="center">Advance an efficient and satisfying work journey</p>
